@@ -69,6 +69,7 @@ CorelTex exists to solve these problems at the infrastructure level.
 This repository contains foundational concepts, documentation, and early implementations.
 
 ---
+https://medium.com/@hassssansalum674/building-sovereign-memory-offline-ai-infrastructure-at-coreltex-author-hassan-salum-role-d6d1e4968b3e
 
 ## Philosophy
 
@@ -78,5 +79,7 @@ It is infrastructure.
 Built for systems where **trust, accountability, and memory** matter.
 
 ---
+
+
 
 © CorelTex
